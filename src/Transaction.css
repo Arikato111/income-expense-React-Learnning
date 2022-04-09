@@ -1,0 +1,12 @@
+.expense {
+    border-right: 5px solid red;
+}
+
+.income {
+    border-right: 5px solid green;
+}
+
+.title{ 
+    padding-right: 30px;
+    border: none;
+}

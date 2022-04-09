@@ -1,0 +1,51 @@
+body {
+  background-color: beige;
+}
+
+.title {
+  border-bottom: white 3px solid;
+  border-radius: 4px;
+  padding-left: 7px;
+  padding-right: 9px;
+}
+
+.box {
+  margin: 20px;
+  border-radius: 10px;
+  border-bottom: 2px solid pink;
+  border-right: 2px solid pink;
+  box-shadow: 0 1px 3px pink;
+  padding-top: 5px;
+  background-color: aqua;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+.list-ex {
+  display: inline-block;
+  border: 2px solid red;
+  border-radius: 8px;
+  font-size: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 5px;
+  box-shadow: 2px 2px 5px pink;
+  background-color: beige;
+  cursor:default;
+}
+
+.list-in {
+  display: inline-block;
+  border: 2px solid green;
+  border-radius: 8px;
+  font-size: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 5px;
+  box-shadow: 2px 2px 5px pink;
+  background-color: beige;
+  cursor:default;
+}
