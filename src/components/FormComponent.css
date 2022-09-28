@@ -1,0 +1,29 @@
+label {
+    display: inline-block;
+    margin: 10px 0;
+}
+
+input {
+    border: 1px solid #dedede;
+    font-size: 16px;
+    padding: 5px 10px;
+    margin: 0 9px;
+    border-radius: 6px;
+    width: 100px;
+}
+
+input:focus {
+    outline: none;
+}
+
+.btn {
+    background-color: hotpink;
+    border: none;
+    border-radius: 7px;
+    color:white;
+    cursor: pointer;
+}
+
+.btn:hover {
+    border: 1px solid gray;
+}
